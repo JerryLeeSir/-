@@ -6,26 +6,31 @@
 &emsp;&emsp;首先从群文件下载自己名字对应的压缩包，以我本人的压缩包为例，解压到D盘根目录，注意一定不要解压到桌面（防止有中文路径），也不要解压到其他带有中文的路径的地方。
 &nbsp;
 &nbsp;
-<img src="https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319183919458-1654040562.png">
+![image](https://user-images.githubusercontent.com/68058642/111780959-0f4bfa00-88f3-11eb-9dae-cb84cd7d33b3.png)
+
 &nbsp;
 &nbsp;
 &emsp;&emsp;进入解压后的文件夹后会看到一个VOC数据集和一个labellmg压缩包，首先解压labellmg压缩包到当前目录
 # 打标签操作
 
-![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319184211145-1316822385.png)
-![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319190402804-550745680.png)
+![image](https://user-images.githubusercontent.com/68058642/111781087-1ffc7000-88f3-11eb-8e3c-1e7b1355bbb3.png)
+
+![image](https://user-images.githubusercontent.com/68058642/111781285-2be83200-88f3-11eb-9e27-acd2822c8c46.png)
+
 &nbsp;
 &nbsp;
 &emsp;&emsp;进入解压后的labellmg文件夹，找到labellmg程序，鼠标右键，选择管理员身份打开
 &nbsp;
 &nbsp;
-![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319190756910-425840355.png)
+![image](https://user-images.githubusercontent.com/68058642/111781717-44f0e300-88f3-11eb-80c7-745f9f4aea9b.png)
+
 &nbsp;
 &nbsp;
 &emsp;&emsp;运行这个程序后，会出现两个窗口，任何一个窗口都不要关闭
 &nbsp;
 &nbsp;
-![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319191014873-1989941377.png)
+
+
 ![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319191031790-1179912787.png)
 &nbsp;
 &nbsp;
