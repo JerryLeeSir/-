@@ -22,16 +22,11 @@
 &emsp;&emsp;进入解压后的labellmg文件夹，找到labellmg程序，鼠标右键，选择管理员身份打开
 &nbsp;
 &nbsp;
-![image](https://user-images.githubusercontent.com/68058642/111781717-44f0e300-88f3-11eb-80c7-745f9f4aea9b.png)
-
+![image](https://user-images.githubusercontent.com/68058642/111782170-ac0e9780-88f3-11eb-8992-e5df62e7be6b.png)
 &nbsp;
 &nbsp;
 &emsp;&emsp;运行这个程序后，会出现两个窗口，任何一个窗口都不要关闭
-&nbsp;
-&nbsp;
-
-
-![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319191031790-1179912787.png)
+![image](https://user-images.githubusercontent.com/68058642/111782220-bc267700-88f3-11eb-881e-f1dd7d679f54.png)
 &nbsp;
 &nbsp;
 &emsp;&emsp;黑窗口，不用管，进入白窗口，首先点击左边第二项Open Dir
