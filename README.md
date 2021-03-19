@@ -13,20 +13,20 @@
 # 打标签操作
 
 ![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319184211145-1316822385.png)
-![image](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319190402804-550745680.png)
+![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319190402804-550745680.png)
 &nbsp;
 &nbsp;
 &emsp;&emsp;进入解压后的labellmg文件夹，找到labellmg程序，鼠标右键，选择管理员身份打开
 &nbsp;
 &nbsp;
-![image](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319190756910-425840355.png)
+![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319190756910-425840355.png)
 &nbsp;
 &nbsp;
 &emsp;&emsp;运行这个程序后，会出现两个窗口，任何一个窗口都不要关闭
 &nbsp;
 &nbsp;
-![image](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319191014873-1989941377.png)
-![image](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319191031790-1179912787.png)
+![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319191014873-1989941377.png)
+![](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319191031790-1179912787.png)
 &nbsp;
 &nbsp;
 &emsp;&emsp;黑窗口，不用管，进入白窗口，首先点击左边第二项Open Dir
