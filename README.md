@@ -59,7 +59,8 @@
 ![image](https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319192309230-339552423.png)
 &emsp;&emsp;开始介绍如何开始打标签
 &emsp;&emsp;我们在选择好保存地址后，在图片页面按下W键，如果此时界面上出现输入法，按下shift键，之后再按W键，出现如下图所示内容
-<img src="https://img2020.cnblogs.com/blog/2019794/202103/2019794-20210319192959293-1548553140.png">
+![image](https://user-images.githubusercontent.com/68058642/111780805-dc096b00-88f2-11eb-8c3e-20b1504d7f49.png)
+
 &emsp;&emsp;长按鼠标左键，拖动选择草莓区域，再松开鼠标
 &nbsp;
 &nbsp;
